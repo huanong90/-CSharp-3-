@@ -1,0 +1,1 @@
+C:\Users\nbszopaultest\documents\visual studio 2015\Projects\深入理解CSharp第3版\Chapter5进入快速通道的委托\bin\Debug\Chapter5进入快速通道的委托.exe.config

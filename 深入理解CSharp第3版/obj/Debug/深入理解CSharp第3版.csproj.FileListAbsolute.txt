@@ -1,0 +1,8 @@
+c:\users\nbszopaultest\documents\visual studio 2015\Projects\深入理解CSharp第3版\深入理解CSharp第3版\bin\Debug\深入理解CSharp第3版.exe.config
+c:\users\nbszopaultest\documents\visual studio 2015\Projects\深入理解CSharp第3版\深入理解CSharp第3版\bin\Debug\深入理解CSharp第3版.exe
+c:\users\nbszopaultest\documents\visual studio 2015\Projects\深入理解CSharp第3版\深入理解CSharp第3版\bin\Debug\深入理解CSharp第3版.pdb
+c:\users\nbszopaultest\documents\visual studio 2015\Projects\深入理解CSharp第3版\深入理解CSharp第3版\obj\Debug\深入理解CSharp第3版.exe
+c:\users\nbszopaultest\documents\visual studio 2015\Projects\深入理解CSharp第3版\深入理解CSharp第3版\obj\Debug\深入理解CSharp第3版.pdb
+c:\users\nbszopaultest\documents\visual studio 2015\Projects\深入理解CSharp第3版\深入理解CSharp第3版\obj\Debug\深入理解CSharp第3版.csprojResolveAssemblyReference.cache
+c:\users\nbszopaultest\documents\visual studio 2015\Projects\深入理解CSharp第3版\深入理解CSharp第3版\bin\Debug\MoreLinq.dll
+c:\users\nbszopaultest\documents\visual studio 2015\Projects\深入理解CSharp第3版\深入理解CSharp第3版\bin\Debug\MoreLinq.xml
